@@ -31,7 +31,6 @@
     "node": ">=22"
   },
   "optionalDependencies": {
-    "feedparser": "^2.6.0",
     "fs.notify": "^0.0.4",
     "js2xmlparser": "^5.0.0",
     "mongodb": "^7.6.0",
@@ -45,7 +44,6 @@
     "node-red-contrib-polymer": "^0.0.22",
     "node-red-dashboard": "^3.6.6",
     "node-red-node-email": "^5.2.5",
-    "node-red-node-feedparser": "^1.0.7",
     "node-red-node-sentiment": "^0.1.6",
     "node-red-node-twitter": "^1.2.0"
   },
