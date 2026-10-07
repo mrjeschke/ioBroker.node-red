@@ -42,10 +42,7 @@
     "node-red": "^5.0.4",
     "node-red-contrib-aggregator": "^2.0.0",
     "node-red-contrib-polymer": "^0.0.22",
-    "node-red-dashboard": "^3.6.6",
-    "node-red-node-email": "^5.2.5",
     "node-red-node-sentiment": "^0.1.6",
-    "node-red-node-twitter": "^1.2.0"
   },
   "devDependencies": {
     "@alcalzone/release-script": "^5.2.1",
